@@ -11,10 +11,8 @@ let db,
 dbName = "demo"
 
 
-// De1S13ShnAB6yOio: passowrd for server
 
 // const url = "mongodb+srv://demo:demo@cluster0-q2ojb.mongodb.net/test?retryWrites=true"; this was the original url or code that leon had on his code.
-const url = "mongodb+srv://fernandojhernandez123:De1S13ShnAB6yOio@cluster0.78sswj1.mongodb.net/?retryWrites=true&w=majority"
 
 
 app.listen(5050, () => {
