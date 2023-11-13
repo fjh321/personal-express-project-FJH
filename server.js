@@ -6,12 +6,12 @@ const MongoClient = require('mongodb').MongoClient
 require('dotenv').config()
 
 
-let db,
-  dbConnectionSTR = process.env.DB_STRING
+let db
+//   dbConnectionSTR = process.env.DB_STRING
 dbName = "demo"
 
 
-
+const url = 'mongodb+srv://fernandojhernandez123:ejmscCpM6rDJGfXD@cluster0.78sswj1.mongodb.net/demo?retryWrites=true&w=majority'
 // const url = "mongodb+srv://demo:demo@cluster0-q2ojb.mongodb.net/test?retryWrites=true"; this was the original url or code that leon had on his code.
 
 
