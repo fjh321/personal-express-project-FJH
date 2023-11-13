@@ -1,6 +1,34 @@
-body{
-  background: red;
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(206, 206, 243);
 }
-h3{
+
+h1 {
+  width: 50%;
+  text-align: center;
+}
+
+h3 {
   margin-top: 40px;
+}
+
+input {
+  border-radius: 0.5rem;
+}
+
+li {
+  width: 100%;
+  font-size: 1rem;
+  margin: 1rem 0;
+}
+
+.movieName {
+  font-weight: bold;
+}
+
+span {
+  margin: 0 0.25rem;
 }
