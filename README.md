@@ -1,4 +1,4 @@
-![21 Savage](public/21savage.jpg)
+<img width="868" alt="image" src="https://github.com/fjh321/personal-express-project-FJH/assets/64885403/d23a60b5-0b7b-4bca-8faa-b6b35ff941f6">
 
 ## Installation
 
@@ -8,4 +8,4 @@
 ## Usage
 
 1. run `npm run savage`
-2. Navigate to `localhost:3000`
+2. Navigate to `localhost:5050`
