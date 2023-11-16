@@ -1,5 +1,5 @@
 <img width="868" alt="image" src="https://github.com/fjh321/personal-express-project-FJH/assets/64885403/d23a60b5-0b7b-4bca-8faa-b6b35ff941f6">
-##Personal Express Project
+## Personal Express Project
 
 For this app I wanted to create a movie rating app where users can submit a movie, a corresponding review and the rating they think it deserves. Then, other users could show their agreement with certain reviews but upvoting that specific review.
 
