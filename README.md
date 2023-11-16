@@ -14,7 +14,7 @@ I enjoyed making this app because I enjoy watching movies in almost every genre 
 ## Lessons Learned :
 * CRUD requests became more easy to decipher and implement
 * window location reload methods can affect the results shown on your page/DOM.
-* *
+
 
 ## Installation
 
